@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @febryansambuari
 - 👀 I’m interested in web development, books and photograph
-- 🌱 I’m currently learning laravel & MERN stack
+- 🌱 I’m currently learning laravel (TALL stack) & Flutter
 - 📫 How to reach me is you can contact me in febryansambuari04@gmail.com
 
 <!---
