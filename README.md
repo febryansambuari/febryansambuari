@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @febryansambuari
-- 👀 I’m interested in web development, books and photograph
-- 🌱 I’m currently learning laravel (TALL stack) & Flutter
-- 📫 How to reach me is you can contact me in febryansambuari04@gmail.com
+- 👋 Hi, I’m @febryansambuari.
+- 👀 I’m interested in web development, books, and photography.
+- 🌱 I’m currently learning Go & Android with Kotlin.
+- 📫 How to reach me you can contact me at febryansambuari04@gmail.com.
 
 <!---
 febryansambuari/febryansambuari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
